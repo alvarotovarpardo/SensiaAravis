@@ -1,0 +1,13 @@
+[requires]
+aravis/0.8.30
+
+[tool_requires]
+cmake/3.28.1
+
+[generators]
+CMakeToolchain
+AutotoolsToolchain
+CMakeDeps
+
+[layout]
+cmake_layout
